@@ -10,7 +10,7 @@
     "secondary": [
         {
             "identifier": "about",
-            "weight": 0,
+            "weight": -2,
             "url": "https://script.google.com/d/1IvM7GTb8uEspDr7Lt-YN44O2aNEUAL4CpLxrRHW4MdbiWlCXGCZ0zy0D/edit",
             "title": "About"
         }
