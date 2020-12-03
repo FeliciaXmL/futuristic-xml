@@ -13,6 +13,13 @@
             "weight": -2,
             "url": "https://script.google.com/d/1IvM7GTb8uEspDr7Lt-YN44O2aNEUAL4CpLxrRHW4MdbiWlCXGCZ0zy0D/edit",
             "title": "About"
+        },
+        {
+            "identifier": "lorem-ipsum",
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "weight": 0,
+            "type": "site_menu_item"
         }
     ]
 }
