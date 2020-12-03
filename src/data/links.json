@@ -11,6 +11,10 @@
         {
             "title": "Gatsby",
             "url": "https://www.gatsbyjs.org"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum"
         }
     ],
     "cms": [
